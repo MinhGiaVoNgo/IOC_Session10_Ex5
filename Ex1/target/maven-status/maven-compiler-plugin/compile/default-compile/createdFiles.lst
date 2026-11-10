@@ -1,0 +1,4 @@
+com\example\medical\dto\PatientDTO$PatientDTOBuilder.class
+com\example\medical\dto\PatientDTO.class
+com\example\medical\controller\PatientController.class
+com\example\medical\MedicalApplication.class
